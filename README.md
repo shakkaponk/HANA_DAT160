@@ -1,10 +1,8 @@
 # Getting Started
 
-Welcome to your new project.
+Combine CAP with SAP HANA Cloud to Create Full-Stack Applications     
+https://developers.sap.com/mission.hana-cloud-cap.html
 
-It contains these folders and files, following our recommended project layout:
-
-File or Folder | Purpose
 ---------|----------
 `app/` | content for UI frontends goes here
 `db/` | your domain models and data go here
